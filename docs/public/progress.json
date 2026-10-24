@@ -1,0 +1,43 @@
+{
+ "updated_at": "2026-10-24T17:20:03+08:00",
+ "steamid": "76561198289655315",
+ "playtime_minutes": 2654,
+ "achievements": {
+  "total": 78,
+  "unlocked": 8
+ },
+ "unlocked_all": [
+  {
+   "api": "LILAC",
+   "unlocktime_str": "2019-04-20 00:13"
+  },
+  {
+   "api": "FAMILY_COUNSELOR",
+   "unlocktime_str": "2019-04-30 00:32"
+  },
+  {
+   "api": "FRIENDS_WITH_BENEFITS",
+   "unlocktime_str": "2019-05-09 19:55"
+  },
+  {
+   "api": "CANT_TOUCH_THIS",
+   "unlocktime_str": "2019-04-23 00:11"
+  },
+  {
+   "api": "BUTCHER_OF_BLAVIKEN",
+   "unlocktime_str": "2019-01-10 22:25"
+  },
+  {
+   "api": "LETS_COOK",
+   "unlocktime_str": "2019-04-26 23:20"
+  },
+  {
+   "api": "BOOKWORM",
+   "unlocktime_str": "2019-10-24 22:20"
+  },
+  {
+   "api": "FIST_OF_THE_SOUTH_STAR",
+   "unlocktime_str": "2019-05-09 22:22"
+  }
+ ]
+}
