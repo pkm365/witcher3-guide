@@ -2,6 +2,7 @@ import DefaultTheme from 'vitepress/theme'
 import type { Theme } from 'vitepress'
 import WitcherBanner from './components/WitcherBanner.vue'
 import AchGallery from './components/AchGallery.vue'
+import GwentChecklist from './components/GwentChecklist.vue'
 import './style.css'
 
 export default {
@@ -9,5 +10,6 @@ export default {
   enhanceApp({ app }) {
     app.component('WitcherBanner', WitcherBanner)
     app.component('AchGallery', AchGallery)
+    app.component('GwentChecklist', GwentChecklist)
   },
 } satisfies Theme

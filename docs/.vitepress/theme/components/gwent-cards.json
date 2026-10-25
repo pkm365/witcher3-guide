@@ -1,0 +1,2035 @@
+[
+ {
+  "name": "诱饵",
+  "faction": "中立",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 乌鸦窝的军需官",
+   "诺维格勒 · 七只猫旅店的主人",
+   "白果园 · 白果园旅店的主人/或白果园的商人"
+  ],
+  "id": 1,
+  "missable": false
+ },
+ {
+  "name": "领导号角",
+  "faction": "中立",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 十字路口旅店的主人",
+   "诺维格勒 · 帕西弗罗拉的主人",
+   "诺维格勒 · 牛堡的旅店主人"
+  ],
+  "id": 2,
+  "missable": false
+ },
+ {
+  "name": "烧灼",
+  "faction": "中立",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 鹅阴旅店的主人",
+   "史凯利杰 · 凯尔·卓德港的旅店主人",
+   "史凯利杰 · 由里亚拉港的旅店主人"
+  ],
+  "id": 3,
+  "missable": false
+ },
+ {
+  "name": "霜霰",
+  "faction": "中立",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带",
+   "随机 · 随机获得"
+  ],
+  "id": 4,
+  "missable": false
+ },
+ {
+  "name": "浓雾",
+  "faction": "中立",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得",
+   "自带 · 游戏开始自带"
+  ],
+  "id": 5,
+  "missable": false
+ },
+ {
+  "name": "暴雨",
+  "faction": "中立",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带",
+   "随机 · 随机获得"
+  ],
+  "id": 6,
+  "missable": false
+ },
+ {
+  "name": "天晴",
+  "faction": "中立",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带",
+   "随机 · 随机获得"
+  ],
+  "id": 7,
+  "missable": false
+ },
+ {
+  "name": "史凯利杰风暴",
+  "faction": "中立",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 比武场的理发师（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 比武场的军需官（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 博克莱港的屠夫（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 8,
+  "missable": false
+ },
+ {
+  "name": "利维亚的杰洛特",
+  "faction": "中立",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 七只猫旅店的塔勒（昆特牌：挑战塔勒）"
+  ],
+  "id": 9,
+  "missable": false
+ },
+ {
+  "name": "维瑟米尔",
+  "faction": "中立",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 大主教广场的维米·维瓦尔第（昆特牌：大城玩家）"
+  ],
+  "id": 10,
+  "missable": false
+ },
+ {
+  "name": "范格堡的叶奈法",
+  "faction": "中立",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 牛堡的旅店主人（昆特牌：旅店主人大挑战）"
+  ],
+  "id": 11,
+  "missable": false
+ },
+ {
+  "name": "希里拉",
+  "faction": "中立",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 诺维格勒森林松鼠党营地的商人（昆特牌：大城玩家）"
+  ],
+  "id": 12,
+  "missable": false
+ },
+ {
+  "name": "特莉丝·梅利葛德",
+  "faction": "中立",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 兰伯特（昆特牌：老朋友）"
+  ],
+  "id": 13,
+  "missable": false
+ },
+ {
+  "name": "丹德里恩",
+  "faction": "中立",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 在维格布德宅邸的化妆舞会牌局中获胜（生死交关）"
+  ],
+  "id": 14,
+  "missable": true
+ },
+ {
+  "name": "卓尔坦·齐瓦",
+  "faction": "中立",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "白果园 · 白果园旅店的学者/吊死鬼之树下"
+  ],
+  "id": 15,
+  "missable": false
+ },
+ {
+  "name": "埃米尔·雷吉斯·洛赫雷克·提尔吉夫",
+  "faction": "中立",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 16,
+  "missable": false
+ },
+ {
+  "name": "维伦特雷坦梅斯",
+  "faction": "中立",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 17,
+  "missable": false
+ },
+ {
+  "name": "神秘的精灵",
+  "faction": "中立",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "史凯利杰 · 盖迪尼斯的葛密斯特（昆特牌：史凯利杰风）"
+  ],
+  "id": 18,
+  "missable": false
+ },
+ {
+  "name": "欧吉尔德·冯·伊佛瑞克",
+  "faction": "中立",
+  "set": "hos",
+  "how": "打牌赢得",
+  "sources": [
+   "诺维格勒 · 夏妮（石之心）"
+  ],
+  "id": 19,
+  "missable": false
+ },
+ {
+  "name": "刚特·欧迪姆",
+  "faction": "中立",
+  "set": "hos",
+  "how": "打牌赢得",
+  "sources": [
+   "诺维格勒 · 拍卖行的休伯特（石之心）"
+  ],
+  "id": 20,
+  "missable": false
+ },
+ {
+  "name": "刚特·欧迪姆：黑暗",
+  "faction": "中立",
+  "set": "hos",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 符文匠处的商人（石之心）"
+  ],
+  "id": 21,
+  "missable": false
+ },
+ {
+  "name": "乳牛",
+  "faction": "中立",
+  "set": "hos",
+  "how": "拾取",
+  "sources": [
+   "诺维格勒 · 布伦威治的谷仓二楼（石之心）"
+  ],
+  "id": 22,
+  "missable": false
+ },
+ {
+  "name": "弗农·罗契",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "维伦 · 米德考普斯的哈弟（昆特牌：维伦玩家）"
+  ],
+  "id": 23,
+  "missable": false
+ },
+ {
+  "name": "约翰·纳塔利斯",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 金鲟旅店的拉维（危险游戏）"
+  ],
+  "id": 24,
+  "missable": true
+ },
+ {
+  "name": "伊斯特拉德·蒂森",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 澡堂的迪科斯彻（昆特牌：大城玩家）"
+  ],
+  "id": 25,
+  "missable": false
+ },
+ {
+  "name": "菲丽芭·埃尔哈特",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 26,
+  "missable": false
+ },
+ {
+  "name": "塔勒",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 阿林比翁的旅店主人"
+  ],
+  "id": 27,
+  "missable": false
+ },
+ {
+  "name": "薇丝",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 28,
+  "missable": false
+ },
+ {
+  "name": "丹索的齐格菲",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 29,
+  "missable": false
+ },
+ {
+  "name": "亚尔潘·齐格林",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 30,
+  "missable": false
+ },
+ {
+  "name": "西吉斯蒙德·迪科斯彻",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "维伦 · 乌鸦窝的血腥男爵（昆特牌：维伦玩家）"
+  ],
+  "id": 31,
+  "missable": false
+ },
+ {
+  "name": "凯拉·梅兹",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 32,
+  "missable": false
+ },
+ {
+  "name": "希尔·德坦莎维耶",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 33,
+  "missable": false
+ },
+ {
+  "name": "萨宾娜·葛丽维希格",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 34,
+  "missable": false
+ },
+ {
+  "name": "雪尔登·史卡格",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 35,
+  "missable": false
+ },
+ {
+  "name": "戴斯摩",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 36,
+  "missable": false
+ },
+ {
+  "name": "史坦尼斯王子",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 37,
+  "missable": false
+ },
+ {
+  "name": "抛石机",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 38,
+  "missable": false
+ },
+ {
+  "name": "烂渣步兵团",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带",
+   "维伦 · 林登维尔的商人"
+  ],
+  "id": 39,
+  "missable": false
+ },
+ {
+  "name": "克林弗里掠夺者巨龙猎人",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "白果园 · 白果园旅店的主人/或白果园的商人",
+   "维伦 · 克莱威奇的商人（先在东北方解救）",
+   "维伦 · 米德考普斯的商人"
+  ],
+  "id": 40,
+  "missable": false
+ },
+ {
+  "name": "瑞达尼亚步兵",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 41,
+  "missable": false
+ },
+ {
+  "name": "投石机",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "白果园 · 白果园旅店的主人/或白果园的商人",
+   "诺维格勒 · 帕西弗罗拉的主人"
+  ],
+  "id": 42,
+  "missable": false
+ },
+ {
+  "name": "弩炮",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 43,
+  "missable": false
+ },
+ {
+  "name": "科德温攻城专家",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 44,
+  "missable": false
+ },
+ {
+  "name": "蓝衣铁卫突击队",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "白果园 · 白果园旅店的主人/或白果园的商人",
+   "自带 · 游戏开始自带",
+   "维伦 · 乌鸦窝的军需官（石之心）",
+   "维伦 · 米德考普斯的商人（石之心）"
+  ],
+  "id": 45,
+  "missable": false
+ },
+ {
+  "name": "攻城塔",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 46,
+  "missable": false
+ },
+ {
+  "name": "褐旗营医生",
+  "faction": "北方领域",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 47,
+  "missable": false
+ },
+ {
+  "name": "古雷特的雷索",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "维伦 · 奥瑞顿的造船匠（昆特牌：维伦玩家）"
+  ],
+  "id": 48,
+  "missable": false
+ },
+ {
+  "name": "梅诺·寇赫伦",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "维伦 · 十字路口旅店的主人（昆特牌：旅店主人大挑战）"
+  ],
+  "id": 49,
+  "missable": false
+ },
+ {
+  "name": "莫尔凡·弗里斯",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 帕西弗罗拉的主人（昆特牌：大城玩家）"
+  ],
+  "id": 50,
+  "missable": false
+ },
+ {
+  "name": "提伯·埃格布拉赫特",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 翠鸟旅店的奥利维尔/或翠鸟旅店内（昆特牌：旅店主人大挑战）"
+  ],
+  "id": 51,
+  "missable": false
+ },
+ {
+  "name": "亚伯力奇",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 乌鸦窝的商人"
+  ],
+  "id": 52,
+  "missable": false
+ },
+ {
+  "name": "艾希蕾·瓦·阿纳兴",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 53,
+  "missable": false
+ },
+ {
+  "name": "辛西亚",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 乌鸦窝的军需官"
+  ],
+  "id": 54,
+  "missable": false
+ },
+ {
+  "name": "芙琳吉拉·薇歌",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 凯撒·比尔曾的家里（危险游戏）"
+  ],
+  "id": 55,
+  "missable": true
+ },
+ {
+  "name": "莫坦森",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 米德考普斯的商人"
+  ],
+  "id": 56,
+  "missable": false
+ },
+ {
+  "name": "雷恩法",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 林登维尔的商人"
+  ],
+  "id": 57,
+  "missable": false
+ },
+ {
+  "name": "雷努阿·马特森",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 58,
+  "missable": false
+ },
+ {
+  "name": "腐烂的射石机",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 59,
+  "missable": false
+ },
+ {
+  "name": "希拉德·费兹奥耶斯泰兰",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 60,
+  "missable": false
+ },
+ {
+  "name": "史提芬·史凯伦",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 61,
+  "missable": false
+ },
+ {
+  "name": "杂碎",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 克莱威奇的商人（先在东北方解救）"
+  ],
+  "id": 62,
+  "missable": false
+ },
+ {
+  "name": "凡赫玛",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 63,
+  "missable": false
+ },
+ {
+  "name": "瓦提尔·德里多",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 64,
+  "missable": false
+ },
+ {
+  "name": "弗林姆德",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 65,
+  "missable": false
+ },
+ {
+  "name": "卡西尔·莫瓦·迪弗林·契拉克",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 66,
+  "missable": false
+ },
+ {
+  "name": "普特卡摩",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 克莱威奇的商人（先在东北方解救）"
+  ],
+  "id": 67,
+  "missable": false
+ },
+ {
+  "name": "爱托里亚辅助弓箭手",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 林登维尔的商人",
+   "维伦 · 克莱威奇的商人（先在东北方解救）"
+  ],
+  "id": 68,
+  "missable": false
+ },
+ {
+  "name": "黑衣步兵团弓箭手",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 克莱威奇的商人（先在东北方解救）",
+   "维伦 · 林登维尔的商人"
+  ],
+  "id": 69,
+  "missable": false
+ },
+ {
+  "name": "攻城技师",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 金鲟旅店的主人"
+  ],
+  "id": 70,
+  "missable": false
+ },
+ {
+  "name": "重型瑟瑞卡尼亚火蝎弩炮",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 林登维尔的商人"
+  ],
+  "id": 71,
+  "missable": false
+ },
+ {
+  "name": "瑟瑞卡尼亚火蝎弩炮",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 乌鸦窝的商人"
+  ],
+  "id": 72,
+  "missable": false
+ },
+ {
+  "name": "帝国禁卫旅守卫",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 乌鸦窝的商人",
+   "维伦 · 十字路口旅店的主人",
+   "诺维格勒 · 七只猫旅店的主人",
+   "诺维格勒 · 鹅阴旅店的主人"
+  ],
+  "id": 73,
+  "missable": false
+ },
+ {
+  "name": "那乌西卡骑兵旅",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 乌鸦窝的军需官",
+   "维伦 · 十字路口旅店的主人",
+   "维伦 · 乌鸦窝的商人"
+  ],
+  "id": 74,
+  "missable": false
+ },
+ {
+  "name": "攻城工兵",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 十字路口旅店的主人"
+  ],
+  "id": 75,
+  "missable": false
+ },
+ {
+  "name": "年轻的特使",
+  "faction": "尼弗迦德",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 鹅阴旅店的主人",
+   "诺维格勒 · 七只猫旅店的商人"
+  ],
+  "id": 76,
+  "missable": false
+ },
+ {
+  "name": "艾丝娜",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 香草旅店的卓尔坦（昆特牌：老朋友）"
+  ],
+  "id": 77,
+  "missable": false
+ },
+ {
+  "name": "萨琪亚圣女",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 泰莫利亚游击队藏身处的弗农·罗契（昆特牌：老朋友）"
+  ],
+  "id": 78,
+  "missable": false
+ },
+ {
+  "name": "伊森格林·法欧提亚纳",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 泽德的家里（危险游戏）"
+  ],
+  "id": 79,
+  "missable": true
+ },
+ {
+  "name": "伊欧菲斯",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "史凯利杰 · 任务奖励（震惊疗法）"
+  ],
+  "id": 80,
+  "missable": false
+ },
+ {
+  "name": "丹尼斯·克蓝莫",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 81,
+  "missable": false
+ },
+ {
+  "name": "米尔瓦",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 在维格布德宅邸的化妆舞会牌局中获胜（生死交关）"
+  ],
+  "id": 82,
+  "missable": true
+ },
+ {
+  "name": "艾达·艾敏·艾普·茜弗尼",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 83,
+  "missable": false
+ },
+ {
+  "name": "费拉万卓列",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 84,
+  "missable": false
+ },
+ {
+  "name": "亚伊文",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "史凯利杰 · 凯尔·卓德港的苏斯塔"
+  ],
+  "id": 85,
+  "missable": false
+ },
+ {
+  "name": "托鲁维尔",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 86,
+  "missable": false
+ },
+ {
+  "name": "李欧丹恩",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 87,
+  "missable": false
+ },
+ {
+  "name": "席朗·依斯尼蓝",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 88,
+  "missable": false
+ },
+ {
+  "name": "巴克莱·艾尔斯",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 金鲟旅店的主人"
+  ],
+  "id": 89,
+  "missable": false
+ },
+ {
+  "name": "私枭医生",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得",
+   "诺维格勒 · 鹅阴旅店的主人",
+   "诺维格勒 · 翠鸟旅店的主人"
+  ],
+  "id": 90,
+  "missable": false
+ },
+ {
+  "name": "维里赫德旅老兵",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 牛堡的旅店主人",
+   "诺维格勒 · 翠鸟旅店的主人"
+  ],
+  "id": 91,
+  "missable": false
+ },
+ {
+  "name": "百花谷侦察兵",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 金鲟旅店的主人",
+   "随机 · 随机获得"
+  ],
+  "id": 92,
+  "missable": false
+ },
+ {
+  "name": "矮人散兵",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 牛堡的旅店主人",
+   "随机 · 随机获得"
+  ],
+  "id": 93,
+  "missable": false
+ },
+ {
+  "name": "玛哈坎守护者",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 帕西弗罗拉的主人",
+   "史凯利杰 · 牛堡的旅店主人",
+   "诺维格勒 · 七只猫旅店的商人",
+   "诺维格勒 · 金鲟旅店的主人",
+   "诺维格勒 · 翠鸟旅店的主人"
+  ],
+  "id": 94,
+  "missable": false
+ },
+ {
+  "name": "精灵散兵",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 由里亚拉港的旅店主人",
+   "随机 · 随机获得"
+  ],
+  "id": 95,
+  "missable": false
+ },
+ {
+  "name": "维里赫德旅新兵",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 96,
+  "missable": false
+ },
+ {
+  "name": "百花谷弓箭手",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 帕西弗罗拉的主人"
+  ],
+  "id": 97,
+  "missable": false
+ },
+ {
+  "name": "私枭",
+  "faction": "松鼠党",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 七只猫旅店的商人",
+   "随机 · 随机获得",
+   "诺维格勒 · 翠鸟旅店的主人"
+  ],
+  "id": 98,
+  "missable": false
+ },
+ {
+  "name": "希鲁",
+  "faction": "松鼠党",
+  "set": "hos",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "诺维格勒 · 伊芙琳戏团的商人（石之心）"
+  ],
+  "id": 99,
+  "missable": false
+ },
+ {
+  "name": "战灵",
+  "faction": "怪物",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "史凯利杰 · 凯尔·卓德的克拉赫·奎特（昆特牌：史凯利杰风）"
+  ],
+  "id": 100,
+  "missable": false
+ },
+ {
+  "name": "巨章鱼怪",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 101,
+  "missable": false
+ },
+ {
+  "name": "伊勒瑞斯",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 102,
+  "missable": false
+ },
+ {
+  "name": "鹿首精",
+  "faction": "怪物",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "史凯利杰 · 盖迪尼斯的尔米恩（昆特牌：史凯利杰风）"
+  ],
+  "id": 103,
+  "missable": false
+ },
+ {
+  "name": "叉尾龙",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 104,
+  "missable": false
+ },
+ {
+  "name": "土元素",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 凯尔·卓德港的旅店主人"
+  ],
+  "id": 105,
+  "missable": false
+ },
+ {
+  "name": "三眼魔",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 阿林比翁的旅店主人"
+  ],
+  "id": 106,
+  "missable": false
+ },
+ {
+  "name": "瘟疫妖女",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 107,
+  "missable": false
+ },
+ {
+  "name": "狮鹫",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 108,
+  "missable": false
+ },
+ {
+  "name": "狼人",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 由里亚拉港的旅店主人"
+  ],
+  "id": 109,
+  "missable": false
+ },
+ {
+  "name": "尸婴",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 凯尔·卓德港的旅店主人"
+  ],
+  "id": 110,
+  "missable": false
+ },
+ {
+  "name": "巨魔螳螂",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 111,
+  "missable": false
+ },
+ {
+  "name": "寒冰巨人",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 斯瓦雷格的旅店主人"
+  ],
+  "id": 112,
+  "missable": false
+ },
+ {
+  "name": "蝎子虫",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 113,
+  "missable": false
+ },
+ {
+  "name": "人身妖鸟",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 哈尔维肯的旅店主人"
+  ],
+  "id": 114,
+  "missable": false
+ },
+ {
+  "name": "石化鸡蛇",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 115,
+  "missable": false
+ },
+ {
+  "name": "石像鬼",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 116,
+  "missable": false
+ },
+ {
+  "name": "高等人身妖鸟",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 117,
+  "missable": false
+ },
+ {
+  "name": "墓穴女巫",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 118,
+  "missable": false
+ },
+ {
+  "name": "火元素",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 119,
+  "missable": false
+ },
+ {
+  "name": "小雾妖",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 斯瓦雷格的旅店主人"
+  ],
+  "id": 120,
+  "missable": false
+ },
+ {
+  "name": "双足飞龙",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 121,
+  "missable": false
+ },
+ {
+  "name": "巨型蟹蜘蛛",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 122,
+  "missable": false
+ },
+ {
+  "name": "蟹蜘蛛",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 阿林比翁的旅店主人",
+   "史凯利杰 · 由里亚拉港的旅店主人",
+   "史凯利杰 · 斯瓦雷格的旅店主人"
+  ],
+  "id": 123,
+  "missable": false
+ },
+ {
+  "name": "孽鬼",
+  "faction": "怪物",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 哈蒙德的尸体（循线追查）",
+   "史凯利杰 · 哈尔维肯的旅店主人",
+   "随机 · 随机获得"
+  ],
+  "id": 124,
+  "missable": false
+ },
+ {
+  "name": "吸血鬼：血魔",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 斯瓦雷格的旅店主人"
+  ],
+  "id": 125,
+  "missable": false
+ },
+ {
+  "name": "吸血鬼：蝠翼魔",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 哈尔维肯的旅店主人"
+  ],
+  "id": 126,
+  "missable": false
+ },
+ {
+  "name": "吸血鬼：蝠翼脑魔",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 127,
+  "missable": false
+ },
+ {
+  "name": "吸血鬼：吸血鬼女",
+  "faction": "怪物",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 在维格布德宅邸的化妆舞会牌局中获胜（生死交关）"
+  ],
+  "id": 128,
+  "missable": true
+ },
+ {
+  "name": "吸血鬼：血髭精",
+  "faction": "怪物",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "史凯利杰 · 凯尔·谬雷的疯子卢戈（昆特牌：史凯利杰风）"
+  ],
+  "id": 129,
+  "missable": false
+ },
+ {
+  "name": "食尸鬼",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 哈尔维肯的旅店主人",
+   "随机 · 随机获得"
+  ],
+  "id": 130,
+  "missable": false
+ },
+ {
+  "name": "老巫婆：煮婆",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "随机 · 随机获得"
+  ],
+  "id": 131,
+  "missable": false
+ },
+ {
+  "name": "老巫婆：织婆",
+  "faction": "怪物",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "维伦 · 贝内克的老贤者（昆特牌：维伦玩家）"
+  ],
+  "id": 132,
+  "missable": false
+ },
+ {
+  "name": "老巫婆：呢喃婆",
+  "faction": "怪物",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 阿林比翁的旅店主人"
+  ],
+  "id": 133,
+  "missable": false
+ },
+ {
+  "name": "蟾蜍",
+  "faction": "怪物",
+  "set": "hos",
+  "how": "打牌赢得",
+  "sources": [
+   "诺维格勒 · 欧吉尔徳·冯·伊佛瑞克（石之心）"
+  ],
+  "id": 134,
+  "missable": false
+ },
+ {
+  "name": "奥拉夫",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 大广场东边旅店的主人（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 135,
+  "missable": false
+ },
+ {
+  "name": "赛瑞丝",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 弗罗维夫的旅店主人（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 136,
+  "missable": false
+ },
+ {
+  "name": "奎特家族战士",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 137,
+  "missable": false
+ },
+ {
+  "name": "战型大艇",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 比武场的旅店主人（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 138,
+  "missable": false
+ },
+ {
+  "name": "迪门家族海盗",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 大广场东边的商人（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 139,
+  "missable": false
+ },
+ {
+  "name": "轻型大艇",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 大广场的商人（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 140,
+  "missable": false
+ },
+ {
+  "name": "德拉蒙家族女战士",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 石化鸡蛇旅店的主人（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 弗兰卡拉兹的护甲匠（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 141,
+  "missable": false
+ },
+ {
+  "name": "碧尔娜·布兰",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 142,
+  "missable": false
+ },
+ {
+  "name": "玛夺蘑",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 博克莱港的妓院夫人（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 大广场东边的草药医生（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 143,
+  "missable": false
+ },
+ {
+  "name": "亚尔玛",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 144,
+  "missable": false
+ },
+ {
+  "name": "尔米恩",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 弗兰卡拉兹的旅店主人（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 145,
+  "missable": false
+ },
+ {
+  "name": "疯子卢戈",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 146,
+  "missable": false
+ },
+ {
+  "name": "蓝孩卢戈",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 147,
+  "missable": false
+ },
+ {
+  "name": "布洛克伐家族弓箭手",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 拉韦洛堡葡萄园的草药医生（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 148,
+  "missable": false
+ },
+ {
+  "name": "黑手霍格",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 149,
+  "missable": false
+ },
+ {
+  "name": "多纳·辛达",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 150,
+  "missable": false
+ },
+ {
+  "name": "乌达瑞克",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 151,
+  "missable": false
+ },
+ {
+  "name": "斯凡瑞格",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 152,
+  "missable": false
+ },
+ {
+  "name": "狂战士",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 153,
+  "missable": false
+ },
+ {
+  "name": "年轻狂战士",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 比武场的铁匠（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 大广场西边裁缝工坊的皮埃尔（昆特牌：别怕，史凯利杰来啦）",
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 154,
+  "missable": false
+ },
+ {
+  "name": "托达洛赫家族护甲匠",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 155,
+  "missable": false
+ },
+ {
+  "name": "海玫家族诗人",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 156,
+  "missable": false
+ },
+ {
+  "name": "德莱格·波-德乌",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 大广场西边旅店的主人（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 157,
+  "missable": false
+ },
+ {
+  "name": "坎比",
+  "faction": "史凯利杰",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 大广场的军需官（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 158,
+  "missable": false
+ },
+ {
+  "name": "铁打心肠",
+  "faction": "领袖",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 任务中获得（大赌局）"
+  ],
+  "id": 159,
+  "missable": false
+ },
+ {
+  "name": "围城大师",
+  "faction": "领袖",
+  "set": "base",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "维吉玛皇家城堡 · 尼弗迦德贵族"
+  ],
+  "id": 160,
+  "missable": false
+ },
+ {
+  "name": "北方总指挥官",
+  "faction": "领袖",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "白果园 · 白果园旅店的主人/或白果园的商人"
+  ],
+  "id": 161,
+  "missable": false
+ },
+ {
+  "name": "泰莫利亚之王",
+  "faction": "领袖",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 162,
+  "missable": false
+ },
+ {
+  "name": "马德之子",
+  "faction": "领袖",
+  "set": "hos",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 伊芙琳戏团的商人（石之心）"
+  ],
+  "id": 163,
+  "missable": false
+ },
+ {
+  "name": "冷血无情",
+  "faction": "领袖",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 任务中获得（大赌局）"
+  ],
+  "id": 164,
+  "missable": false
+ },
+ {
+  "name": "白焰",
+  "faction": "领袖",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "史凯利杰 · 完成任务奖励（昆特牌：史凯利杰风）"
+  ],
+  "id": 165,
+  "missable": false
+ },
+ {
+  "name": "尼弗迦德皇帝",
+  "faction": "领袖",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "维伦 · 十字路口旅店的主人"
+  ],
+  "id": 166,
+  "missable": false
+ },
+ {
+  "name": "皇帝陛下",
+  "faction": "领袖",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 167,
+  "missable": false
+ },
+ {
+  "name": "北方入侵者",
+  "faction": "领袖",
+  "set": "hos",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 伊芙琳戏团的商人（石之心）"
+  ],
+  "id": 168,
+  "missable": false
+ },
+ {
+  "name": "百花谷女王",
+  "faction": "领袖",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 任务中获得（大赌局）"
+  ],
+  "id": 169,
+  "missable": false
+ },
+ {
+  "name": "美貌过人",
+  "faction": "领袖",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "诺维格勒 · 完成任务奖励（昆特牌：大城玩家）"
+  ],
+  "id": 170,
+  "missable": false
+ },
+ {
+  "name": "山谷雏菊",
+  "faction": "领袖",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 鹅阴旅店的主人"
+  ],
+  "id": 171,
+  "missable": false
+ },
+ {
+  "name": "纯种精灵",
+  "faction": "领袖",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 172,
+  "missable": false
+ },
+ {
+  "name": "山地精灵的希望",
+  "faction": "领袖",
+  "set": "hos",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 符文匠处的商人（石之心）"
+  ],
+  "id": 173,
+  "missable": false
+ },
+ {
+  "name": "世界毁灭者",
+  "faction": "领袖",
+  "set": "base",
+  "how": "支线任务",
+  "sources": [
+   "诺维格勒 · 任务中获得（大赌局）"
+  ],
+  "id": 174,
+  "missable": false
+ },
+ {
+  "name": "死亡使者",
+  "faction": "领袖",
+  "set": "base",
+  "how": "昆特牌任务",
+  "sources": [
+   "维伦 · 完成任务奖励（昆特牌：维伦玩家）"
+  ],
+  "id": 175,
+  "missable": false
+ },
+ {
+  "name": "魂猎之王",
+  "faction": "领袖",
+  "set": "base",
+  "how": "商人处购买",
+  "sources": [
+   "史凯利杰 · 凯尔·卓德港的旅店主人"
+  ],
+  "id": 176,
+  "missable": false
+ },
+ {
+  "name": "赤焰骑士指挥官",
+  "faction": "领袖",
+  "set": "base",
+  "how": "自带",
+  "sources": [
+   "自带 · 游戏开始自带"
+  ],
+  "id": 177,
+  "missable": false
+ },
+ {
+  "name": "诡计多端",
+  "faction": "领袖",
+  "set": "hos",
+  "how": "商人处购买",
+  "sources": [
+   "诺维格勒 · 符文匠处的商人（石之心）"
+  ],
+  "id": 178,
+  "missable": false
+ },
+ {
+  "name": "布兰王",
+  "faction": "领袖",
+  "set": "baw",
+  "how": "商人或铁匠处赢得",
+  "sources": [
+   "杜桑 · 大广场西边的公国财政官（昆特牌：别怕，史凯利杰来啦）"
+  ],
+  "id": 179,
+  "missable": false
+ },
+ {
+  "name": "克拉赫·奎特",
+  "faction": "领袖",
+  "set": "baw",
+  "how": "昆特牌任务",
+  "sources": [
+   "杜桑 · 莫尼耶伯爵（昆特牌：博克莱大赛）"
+  ],
+  "id": 180,
+  "missable": false
+ }
+]
